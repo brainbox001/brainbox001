@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @brainbox001
+- 👀 I’m a python developer
+- I can use Javascript too
+- 🌱 I’m a professional django  and d_r_f developer
+- 💞️ I’m looking to collaborate on django and web scraping projects
+- 📫 momsdboy@gmail.com is my email address
