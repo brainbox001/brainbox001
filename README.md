@@ -21,8 +21,8 @@
 - You can explore my projects on my public repo
 - 📫 Reach me on momsdboy@gmail.com let's work together.
 - I'm Open for colaborations on open source projects
-- 😄 Pronouns: I'm a He.
-- ⚡ My 1+ year of experience is worth a 3 years of experience
+- Pronouns: I'm a He.
+- ⚡ My 2 years of experience is worth a 4 years of experience
 
 <!---
 brainbox001/brainbox001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
